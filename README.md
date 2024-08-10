@@ -38,3 +38,9 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `genre` | Show genre |
 
 
+# result: 
+
+![image](https://github.com/user-attachments/assets/dc90db5a-48d7-4886-b22b-c46ceb6517ec)
+
+
+
